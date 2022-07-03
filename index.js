@@ -19,7 +19,7 @@ if (randomNumber1==randomNumber2)
 }
 else if (randomNumber1 > randomNumber2)
 {
-    document.getElementById("winner").innerHTML="Gammu IS WINNER";
+    document.getElementById("winner").innerHTML="Mamatha Reddy IS WINNER";
 }
 else if (randomNumber1 < randomNumber2)
 {
